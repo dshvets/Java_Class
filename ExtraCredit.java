@@ -1,6 +1,11 @@
 package labtwo;
-
 import java.util.Random;
+
+//This script performs the same as the ClassRandom.java script except the frequency
+//of seeing the 4 bases has been changed from being 25%. This is accomplished by 
+//using the "random" java utility, choosing a random number between 0 and 99, checking
+//what that number is, and based on the frequency percentage assigning the proper
+//base. 
 
 public class ExtraCredit {
 	public static void main(String[] args){
