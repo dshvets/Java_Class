@@ -1,4 +1,5 @@
-package labtwo;
+package labtwo.extraCredit;
+
 import java.util.Random;
 
 //This script performs the same as the ClassRandom.java script except the frequency
