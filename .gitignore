@@ -10,3 +10,5 @@ RemoteSystemTempFiles/
 .classpath
 .project
 .settings
+#Mine
+make
