@@ -1,0 +1,10 @@
+#OS Specific
+.DS_Store
+#Compiled files
+bin/
+#Project Specific
+.metadata
+.recommenders
+.classpath
+.project
+.settings
