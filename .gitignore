@@ -1,8 +1,10 @@
 #OS Specific
 .DS_Store
+
 #Compiled files
 bin/
 *.class
+
 #Project Specific
 RemoteSystemTempFiles/
 .metadata
