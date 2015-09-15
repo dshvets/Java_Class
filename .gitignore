@@ -4,6 +4,7 @@
 bin/
 *.class
 #Project Specific
+RemoteSystemTempFiles/
 .metadata
 .recommenders
 .classpath
