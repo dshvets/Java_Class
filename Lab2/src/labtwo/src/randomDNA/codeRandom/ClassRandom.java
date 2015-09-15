@@ -1,4 +1,4 @@
-package randomDNA.codeRandom;
+package labtwo.src.randomDNA.codeRandom;
 
 import java.util.Random;
 
